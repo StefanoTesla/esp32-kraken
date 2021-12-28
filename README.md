@@ -10,4 +10,4 @@ The size of the board is 100x100mm perfect to pass as prototype in jlcpb and get
 
 Currently the pcb is designed to fit with esp32 dev kit with 30pins
 
-
+The pcb.zip file contain the geber file to upload in your favourite pcb manufacturing site ♥️
