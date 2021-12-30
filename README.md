@@ -85,6 +85,8 @@ I stand for Only-Input GPIO
 
 S stand for "Safety" that is you can use that output without going to have problems like pwm at the boot
 
-
+<p align="center">
+  <img src="Images/notes.jpg">
+</p>
 
 ## Hope you like it!
